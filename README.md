@@ -156,16 +156,15 @@ Each project folder contains a README with detailed instructions on how to set u
 ## 📚 PDF Documents
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/l0HlFPNgcg2l7NUHe/giphy.gif" width="400" alt="Documentation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2OTI5MzY1NmNiMzIzMzM1MzM2MzM2MzM2MzYzNjM2MzYzNjM2MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="Documentation">
 </div>
 
 In this repository, you'll find important PDF documents in their respective technology folders. Each folder contains a README.md file that displays the PDF contents for easy viewing. The main PDFs include:
 
-### Full Stack Development-Digital Notes
-![Full Stack Development-Digital Notes](images/Full Stack Development-Digital Notes.png)
 
-### Full-Stack Development Overview
-![full-stack](images/full-stack.png)
+
+### System Design Overview
+![system-design](images/system-design.png)
 
 ## 📊 Repository Structure
 

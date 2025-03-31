@@ -1,5 +1,7 @@
 Fullstack Bootcamp 2024
 
+![Full Stack Bootcamp Overview](images/full-stack.png)
+
 Welcome to the my Fullstack Bootcamp 2024 repository. This repository contains all the projects and exercises I worked on during the boot camp, showcasing a wide range of skills and technologies I explored and experimented with.
 Skills and Technologies
 Web Development
@@ -68,3 +70,14 @@ git clone https://github.com/naimkatiman/FullstackBootcamp2024.git
 cd FullstackBootcamp2024
 
 Each project folder contains a README with detailed instructions on how to set up and run the project.
+
+
+
+## PDF Documents
+
+### Full Stack Development-Digital Notes
+![Full Stack Development-Digital Notes](images/Full Stack Development-Digital Notes.png)
+
+### full-stack
+![full-stack](images/full-stack.png)
+

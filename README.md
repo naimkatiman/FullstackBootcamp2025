@@ -1,4 +1,4 @@
-# Fullstack Bootcamp 2025 🚀
+# Fullstack Bootcamp 🚀
 
 <div align="center">
   
@@ -230,5 +230,5 @@ If you have any questions about this repository, feel free to reach out or open 
 
 <div align="center">
   <p>⭐ Don't forget to star this repository if you find it useful! ⭐</p>
-  <p>© 2025 Fullstack Bootcamp. All rights reserved.</p>
+  <p>© Fullstack Bootcamp. All rights reserved.</p>
 </div>
